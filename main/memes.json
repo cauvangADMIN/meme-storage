@@ -1,0 +1,16 @@
+{
+  "global": [
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme1.jpg",
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme2.jpg",
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme3.jpg",
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme4.jpg",
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme5.jpg",
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme6.jpg",
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme7.jpg"
+  ],
+  "vietnamese": [
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme1_vn.jpg",
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme2_vn.jpg",
+    "https://pub-ef2a7172601d4eccae26e8de2d9fe035.r2.dev/meme3_vn.jpg"
+  ]
+}
